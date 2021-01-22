@@ -1,4 +1,8 @@
+
 @media screen and (max-width:1250px){
+     body{
+        overflow:hidden;
+}
     .navigation{
         flex-direction: column;
         margin-bottom: 15px;
